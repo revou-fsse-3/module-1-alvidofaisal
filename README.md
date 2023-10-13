@@ -26,7 +26,7 @@ It's not just about coding for me, but about using tech to make a real differenc
 ![C](C-00599C_style=for-the-badge&logo=c&logoColor=white.png)![C++](C%252B%252B-00599C_style=for-the-badge&logo=c%252B%252B&logoColor=white.png)![JavaScript](JavaScript-F7DF1E_style=for-the-badge&logo=javascript&logoColor=black.png)![Python](Python-3776AB_style=for-the-badge&logo=python&logoColor=white.png)
 
 ---
-![Bred the penguin chillin' by the fire](Fire.gif){: align="right" width="350px"}
+
 ## 📚 **Skills & Interests**
 
 - **Favorite programming language**: `Python`
