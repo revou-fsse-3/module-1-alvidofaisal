@@ -1,9 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bwEfZG3u)
-
 ![HI!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&color=08D750&vCenter=true&random=false&width=700&height=80&lines=Hi+I'm+Ido!)
 
-![Alt text](9e9ed395-29c7-40a8-9530-9df93f251483.jpg)
-
+![Ido](<WhatsApp Image 2023-10-13 at 9.16.46 PM-1.jpeg>)
 
 | Platform                                                                                                       | Username                                                |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -26,16 +23,10 @@ It's not just about coding for me, but about using tech to make a real differenc
 ---
 
 ## 🌱 **Currently Learning**
-
-<p align="left  ">
-  <a href="#"><img src="img.icons8.png" width="48" height="48" alt="C++"></a>
-  <a href="#"><img src="img.icons8-1.png" width="48" height="48" alt="C++"></a>
-  <a href="#"><img src="img.icons8-2.png" width="48" height="48" alt="Javascript"></a>
-  <a href="#"><img src="python-logo-only.png" width="48" height="48" alt="Python"></a>
-</p>
+![C](C-00599C_style=for-the-badge&logo=c&logoColor=white.png)![C++](C%252B%252B-00599C_style=for-the-badge&logo=c%252B%252B&logoColor=white.png)![JavaScript](JavaScript-F7DF1E_style=for-the-badge&logo=javascript&logoColor=black.png)![Python](Python-3776AB_style=for-the-badge&logo=python&logoColor=white.png)
 
 ---
-![Bred the penguin chillin' by the fire](Fire-1.gif){: align="right" width="350px"}
+![Bred the penguin chillin' by the fire](Fire.gif){: align="right" width="350px"}
 ## 📚 **Skills & Interests**
 
 - **Favorite programming language**: `Python`
