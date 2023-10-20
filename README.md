@@ -1,6 +1,6 @@
 ![HI!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&color=08D750&vCenter=true&random=false&width=700&height=80&lines=Hi+I'm+Ido!)
 
-![Ido](<WhatsApp Image 2023-10-13 at 9.16.46 PM-1.jpeg>)
+![Ido](<assets/WhatsApp Image 2023-10-13 at 9.16.46 PM-1.jpeg>)
 
 | Platform                                                                                                       | Username                                                |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -23,7 +23,7 @@ It's not just about coding for me, but about using tech to make a real differenc
 ---
 
 ## 🌱 **Currently Learning**
-![C](C-00599C_style=for-the-badge&logo=c&logoColor=white.png)![C++](C%252B%252B-00599C_style=for-the-badge&logo=c%252B%252B&logoColor=white.png)![JavaScript](JavaScript-F7DF1E_style=for-the-badge&logo=javascript&logoColor=black.png)![Python](Python-3776AB_style=for-the-badge&logo=python&logoColor=white.png)
+![C](assets/C-00599C_style=for-the-badge&logo=c&logoColor=white.png)![C++](assets/C%252B%252B-00599C_style=for-the-badge&logo=c%252B%252B&logoColor=white.png)![JavaScript](assets/JavaScript-F7DF1E_style=for-the-badge&logo=javascript&logoColor=black.png)![Python](assets/Python-3776AB_style=for-the-badge&logo=python&logoColor=white.png)
 
 ---
 
