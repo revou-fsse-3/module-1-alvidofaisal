@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Discover the Wonders of Patagonia with Our Exclusive Tour Package</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        
+        <!-- Video Background -->   
+        <video autoplay loop muted id="bgVideo">
+            <source src="assets/1.mp4" type="video/mp4">
+        </video>
+
+        <!-- Brand Header -->
+        <div id="brandHeader"><b>TRAVEL</b></div>
+
+        <!-- Book Button -->
+        <button id="bookButton">
+            BOOK NOW
+        </button>
+
+        <!-- Hamburger Button -->
+        <div id="hamburger" onclick="toggleMenu('open')"></div>
+
+        <!-- Middle Text -->
+        <div id="middleText"><b>EXPLORE<br>PATAGONIA</b></div>
+
+        <!-- Menu Page -->
+        <div id="menuContainer">
+
+            <!-- Menu Content -->
+            <div id="menuContent">
+
+                <!-- Menu Items -->
+                <div id="menuItems">
+                    <ul>
+                        <li><a href="#"><b>Home</b></a></li>
+                        <li><a href="#"><b>About</b></a></li>
+                        <li><a href="#"><b>Services</b></a></li>
+                        <li><a href="#"><b>Contact</b></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Close Button -->
+        <div id="closeButton" onclick="toggleMenu('close')"></div>
+
+        <!-- Trip Overview & Itinerary-->
+        <div id="tripOverview">
+
+            <!-- Content Container -->
+            <div class="content-container">
+                <img src="/assets/2.jpg" alt="Map"> 
+
+                <!-- Text Content -->
+                <div class="text-content">
+                    <h1>Trip Overview</h1>
+                    <p>
+                        <!-- Paragraph content -->                       
+                        Embark on the fabled Andean Lakes Crossing, sailing from Argentina to Chile by catamaran.
+                        Explore the spectacular lakes, peaks, and waterfalls of Torres del Paine National Park.
+                        Hear from an expert about the Perito Moreno Glacier, then witness this magnificent ice mass in action.
+                        Discover the enormous penguin colonies of Martillo Island alongside a naturalist guide.
+                    </p>
+                </div>
+            </div>     
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
