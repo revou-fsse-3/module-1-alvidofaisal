@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width", initial scale="1.0">
+        <title>Discover Patagonia</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" charset="utf-8"></script>
+    </head>
+    <body>
+        <header>
+            <a href="#" class="brand">TRAVEO</a>
+            <div class="right-container">
+                <a href="#login-form" class="login">BOOK NOW</a>
+                <div class="menu-btn"></div>
+                <div class="navigation" id="main-navigation">
+                    <div class="nav-item">
+                        <a href="#"><h1>HOME</h1></a>
+                    </div>
+                    <div class="nav-item">
+                        <a href="#destinations"><h1>DESTINATIONS</h1></a>
+                    </div>
+                    <div class="nav-item">
+                        <a href="#"><h1>ABOUT</h1></a>
+                    </div>
+                    <div class="nav-item">
+                        <a href="#"><h1>CONTACT US</h1></a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Home area start -->
+        <section class="home">
+            <video class="video-slide active" src="Assets/1.mp4" autoplay muted loop></video>
+            <video class="video-slide" src="Assets/2.mp4" autoplay muted loop></video>
+            <video class="video-slide" src="Assets/3.mp4" autoplay muted loop></video>
+            <video class="video-slide" src="Assets/4.mp4" autoplay muted loop></video>
+            <video class="video-slide" src="Assets/5.mp4" autoplay muted loop></video>
+            <div class="content active">
+                <h1>Explore.<br><span>Patagonia</span></h1>
+                <p>Discover a world where nature’s beauty and cultural diversity intertwine.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="content">
+                <h1>Feel.<br><span>Adventure</span></h1>
+                <p>Embrace the thrill of Patagonia, a paradise for adventurers with its breathtaking hikes, kayaking routes, and ski slopes.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="content">
+                <h1>Life.<br><span>Unfolding</span></h1>
+                <p>Witness the fascinating life of a diverse wildlife, including the delightful penguins, in their natural habitat.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="content">
+                <h1>Discover.<br><span>Heritage</span></h1>
+                <p>Traverse the rich tapestry of Patagonia’s history, from its indigenous heritage to its charming towns echoing European influences.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="content">
+                <h1>Winds.<br><span>Whisper</span></h1>
+                <p>Listen to the whispering winds, carrying stories of the land’s timeless beauty.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class ="slider-navigation">
+                <div class="nav-btn active"></div>
+                <div class="nav-btn"></div>
+                <div class="nav-btn"></div>
+                <div class="nav-btn"></div>
+                <div class="nav-btn"></div>
+            </div>
+        </section>
+        <!-- Home area end -->
+
+        <!-- Destinations area start -->
+        <section class="destinations" id="destinations">
+            <div class="section-header">
+                <div class="header-top">
+                    <h1>DESTINATIONS</h1>
+                </div>
+                    <div class="destinations-container">
+                        <div class="card">
+                            <img src="Assets/torresdelpaine.jpg" alt="Torres del Paine">
+                            <h2>TORRES DEL PAINE</h2>
+                        </div>
+                        <div class="card">
+                            <img src="Assets/santiago.jpg" alt="Santiago">
+                            <h2>SANTIAGO</h2>
+                        </div>
+                        <div class="card">
+                            <img src="Assets/ushuaia.jpg" alt="Ushuaia">
+                            <h2>USHUAIA</h2>
+                        </div>
+                        <div class="card">
+                            <img src="Assets/puntaarenas.jpg" alt="Punta Arenas">
+                            <h2>PUNTA ARENAS</h2>
+                        </div>
+                        <div class="card">
+                            <img src="Assets/losglaciares.jpg" alt="Los Glaciares">
+                            <h2>LOS GLACIARES</h2>
+                        </div>
+                        <div class="card">
+                            <img src="Assets/tierradelfuego.jpg" alt="Tierra del Fuego">
+                            <h2>TIERRA DEL FUEGO</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Destinations area end -->
+
+        <!-- Form area start -->
+        <section class="form">
+
+            <!-- Login form start -->
+            <form class="login-form" id="login-form" action="" method="post">
+                <div class="form-content">
+                    <i class="fa-solid fa-circle-user"></i>
+                    <input class="user-input" type="text" name="" placeholder="Username" required>
+                    <input class="user-input" type="password" name="" placeholder="Password" required>
+                    <div class="options-01">
+                        <label class="remember-me"><input type="checkbox" name="" value="">Remember me</label>
+                        <a href="#">Forgot your password?</a>
+                    </div>
+                    <input class="form-btn" type="submit" value="LOGIN">
+                    <div class="options-02">
+                        <p>Not Registered? <a href="#signup-form">Create an Account</a></p>
+                    </div>
+                </div>
+            </form>
+            <!-- Login form end -->
+
+            <!-- Signup form start -->
+            <form class="signup-form" id="signup-form" action="" method="post">
+                <div class="form-content">
+                    <i class="fa-solid fa-user-plus"></i>
+                    <input class="user-input" type="text" name="" placeholder="Username" required>
+                    <input class="user-input" type="email" name="" placeholder="Email Address" required>
+                    <input class="user-input" type="password" name="" placeholder="Password" required>
+                    <input class="form-btn" type="submit" name="" value="SIGN UP">               
+                    <div class="options-02">
+                        <p>Already Registered? <a href="#login-form">Sign In</a></p>
+                    </div> 
+                </div>
+            </form>
+            <!-- Signup form end -->
+            
+        </section>
+        <!-- Form area end -->
+
+        <script src="script.js"></script>
+    </body>
+</html>
